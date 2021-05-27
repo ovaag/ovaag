@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ovaag&show_icons=true&locale=en" alt="ovaag" /></p>
+
 <!--
 **ovaag/ovaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
